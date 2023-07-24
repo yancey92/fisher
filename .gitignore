@@ -1,0 +1,7 @@
+app.log
+.idea/
+.idea/*
+.vscode/
+.vscode/*
+.python_cache/
+.python_cache/*
